@@ -6,7 +6,7 @@
 //
 
 #include <iostream>
-#include "GraphicObject.h"
+#include "../Headers/GraphicObject.h"
 
 using namespace othello;
 

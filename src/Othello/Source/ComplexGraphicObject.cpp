@@ -9,8 +9,8 @@
 
 #include <cmath>
 #include <iostream>
-#include "glPlatform.h"
-#include "ComplexGraphicObject.h"
+#include "../Headers/glPlatform.h"
+#include "../Headers/ComplexGraphicObject.h"
 
 using namespace std;
 using namespace othello;

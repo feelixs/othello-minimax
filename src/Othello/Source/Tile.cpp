@@ -5,7 +5,7 @@
 //  Created by Michael Felix on 11/13/23.
 //
 
-#include "Tile.hpp"
+#include "../Headers/Tile.hpp"
 
 using namespace othello;
 

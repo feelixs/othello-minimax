@@ -5,7 +5,7 @@
 //  Created by Michael Felix on 12/5/23.
 //
 
-#include "AiMind.hpp"
+#include "../Headers/AiMind.hpp"
 #include <iostream>
 
 

@@ -5,8 +5,8 @@
 //  Created by Jean-Yves Hervé on 2023-10-17.
 //
 
-#include "Board.hpp"
-#include "AnimatedObject.h"
+#include "../Headers/Board.hpp"
+#include "../Headers/AnimatedObject.h"
 
 using namespace othello;
 

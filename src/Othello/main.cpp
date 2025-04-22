@@ -16,12 +16,12 @@
 #include <iomanip>
 #include <sstream>
 
-#include "Board.hpp"
-#include "Tile.hpp"
-#include "Disc.hpp"
-#include "GameState.hpp"
-#include "Player.hpp"
-#include "AiMind.hpp"
+#include "Headers/Board.hpp"
+#include "Headers/Tile.hpp"
+#include "Headers/Disc.hpp"
+#include "Headers/GameState.hpp"
+#include "Headers/Player.hpp"
+#include "Headers/AiMind.hpp"
 
 using namespace std;
 using namespace othello;

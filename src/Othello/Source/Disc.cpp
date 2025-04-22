@@ -5,7 +5,7 @@
 //  Created by Michael Felix on 11/13/23.
 //
 
-#include "Disc.hpp"
+#include "../Headers/Disc.hpp"
 
 using namespace othello;
 

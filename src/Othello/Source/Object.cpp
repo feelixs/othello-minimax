@@ -5,7 +5,7 @@
 //  Created by Jean-Yves Hervé on 2023-10-17.
 //
 
-#include "Object.h"
+#include "../Headers/Object.h"
 
 using namespace othello;
 

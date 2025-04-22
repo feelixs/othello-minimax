@@ -1,4 +1,4 @@
-#include "Board.hpp"
+#include "../Headers/Board.hpp"
 
 using namespace othello;
 

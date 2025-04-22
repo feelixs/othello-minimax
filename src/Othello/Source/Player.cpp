@@ -5,7 +5,7 @@
 //  Created by Michael Felix on 11/16/23.
 //
 
-#include "Player.hpp"
+#include "../Headers/Player.hpp"
 
 using namespace std;
 using namespace othello;
